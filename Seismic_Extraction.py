@@ -68,6 +68,8 @@ SERVER_TEST_FLG = True
 # My some feature code @ testing branch
 G_NEW_SOMEFEATEUERW- "Rajendra"
 
+# My some feature code @ testing branch next code
+G_NEW_SOMEFEATEUERW- "Rajendra"
 
 DICT_GEOM_FROM_CSV = False
 DICT_PPDM_FROM_CSV = False
