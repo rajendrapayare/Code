@@ -71,6 +71,9 @@ G_NEW_SOMEFEATEUERW- "Rajendra"
 # My some feature code @ testing branch next code
 G_NEW_SOMEFEATEUERW- "Rajendra"
 
+# My some feature code @ testing branch next code only in master
+G_NEW_SOMEFEATEUERW- "Rajendra"
+
 DICT_GEOM_FROM_CSV = False
 DICT_PPDM_FROM_CSV = False
 DICT_MINMAX_FROM_CSV = False
