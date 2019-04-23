@@ -65,6 +65,10 @@ PRODUCT_TYPE_3D = ['3D Detail', '3D Swath', '3D']
 #Set This flag true for server deployment
 SERVER_TEST_FLG = True
 
+# My some feature code @ testing branch
+G_NEW_SOMEFEATEUERW- "Rajendra"
+
+
 DICT_GEOM_FROM_CSV = False
 DICT_PPDM_FROM_CSV = False
 DICT_MINMAX_FROM_CSV = False
